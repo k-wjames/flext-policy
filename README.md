@@ -8,26 +8,27 @@ This is the procedure for user account deletion/termination.
 
 Open the app 
 
-![alt text](Images/screen_one.jpg) [alt text](README.md)
+![alt text](Images/screen_one.jpg)
 
 ## Step Two
 
 Click the settings icon
 
-![alt text](Images/screen_two.jpg) [alt text](README.md)
+![alt text](Images/screen_two.png)
 
 ## Step Three
 
 Select the account termination icon
 
-![alt text](Images/screen_three.jpg) [alt text](README.md)
+![alt text](Images/screen_three.png)
 
 ## Step Four
 
 Confirm account termination by clicking the Yes button 
-## Help
 
-![alt text](Images/screen_four.jpg) [alt text](README.md)
+![alt text](Images/screen_four.png)
+
+## Help
 
 Contact us via:
 
